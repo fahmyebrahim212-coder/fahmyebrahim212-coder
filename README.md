@@ -106,12 +106,9 @@ fahmy = {
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 | Project | Description | Tools |
-|---|---|---|
-| Project | Description | Tools |
-|---|---|---|
 | [Call Center Performance Dashboard](https://github.com/fahmyebrahim212-coder/Salla-Project) | Dashboard tracking call-center performance across 3 months (3 projects, 16 agents) with 5 KPIs, agent comparison, and drill-through. Analyzed 1.74M offered calls: 98.7% handling rate, 1.3% abandonment. | Power BI, DAX, Power Query |
 | [Misuo Sales Dashboard](https://github.com/fahmyebrahim212-coder/Misuo-Report) | Analyzed 123 furniture orders (about 1.27M in sales) with a 7-chart interactive dashboard. Homzmart drove 67.8% of sales; 99 of 118 completed or failed orders were delivered. | Excel, PivotTables, Slicers |
 | [Superstore Dashboard](https://github.com/fahmyebrahim212-coder/Super-Store-Dashboard) | 4-page report with a What-If analysis page. Found that Furniture made 32% of sales but only 6% of profit, and that discounts above 20% turned margins negative. | Power BI, DAX |
